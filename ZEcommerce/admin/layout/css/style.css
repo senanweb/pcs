@@ -1,0 +1,27 @@
+/* Rules */
+body {
+  background-color: #f4f4f4;
+}
+/* Rules */
+/* ================================ */
+/* ================================ */
+/* my-form */
+.login {
+  width: 300px;
+  margin: 150px auto;
+}
+.login .text-center {
+  color: #888;
+}
+.login input {
+  margin-bottom: 7px;
+}
+.login .form-control {
+  background-color: E5E5E5;
+}
+.login .btn {
+  background-color: cornflowerblue;
+}
+/* my-form */
+/* ================================ */
+/* ================================ */

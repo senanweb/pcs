@@ -1,0 +1,2 @@
+In this model we use [Php - Mysql - Bootstrap - Jquery]
+Need to learn [Html - Css - Jquery - Bootstrap - Php - Mysql - PDO(Connection with DATABASE)]
