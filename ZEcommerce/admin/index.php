@@ -1,15 +1,41 @@
 <?php     
+    // session start
+    session_start();
+    $noNavbar = '';
+    // print_r($_SESSION);
+    // if(isset($_SESSION['name']))
+    // {
+    //     header('Location: dashboard.php');
+    // }
+    // ------------------------>>>>>
     include 'init.php';
-    include $tpl.'header.php';
-    include $lang.'en.php';
+    // ------------------------>>>>>
     // check the post
     if ($_SERVER['REQUEST_METHOD'] == "POST")
         {
             $username = $_POST['name'];
             $password = $_POST['pass'];
-            // echo $username . ' ' . $password;
+            // ------------------------>>>>>
+            // echo $username . ' ' . $password;  //normal control
             $hashedPass = sha1($password);
             // echo  $hashedPass;
+            // ------------------------>>>>>
+            $stmt = $con -> prepare('select name,pass from users where name = ? and pass = ? and groupid = 1');
+            $stmt->execute(array($username, $hashedPass));
+            $count = $stmt->rowCount(); 
+            // ---->>>>> check users
+            // ------------------------>>>>>
+            // echo $count;     
+            // if count > 0 this mean database have users
+            if ($count > 0)
+            {
+                // echo 'Welcome' . ' ' . $username;
+                // ------------------------>>>>>
+                $_SESSION['name'] = $username ; 
+                // ---->>>>> Register session name 
+                header('Location: dashboard.php');
+                exit();
+            }
         }
 ?>
 <!-- my-form -->
@@ -20,5 +46,6 @@
     <input class="btn btn-primary btn-block" type="submit" value="Login">
     </form>
 <!-- my-form -->
+
     
 <?php include $tpl.'footer.php'; ?>
