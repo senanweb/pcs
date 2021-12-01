@@ -1,0 +1,15 @@
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\bin\Debug\netstandard2.0\Sam1.deps.json
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\bin\Debug\netstandard2.0\Sam1.dll
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\bin\Debug\netstandard2.0\ref\Sam1.dll
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\bin\Debug\netstandard2.0\Sam1.pdb
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\obj\Debug\netstandard2.0\Sam1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\obj\Debug\netstandard2.0\Sam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\obj\Debug\netstandard2.0\Sam1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\obj\Debug\netstandard2.0\Sam1.AssemblyInfo.cs
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\obj\Debug\netstandard2.0\Sam1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\obj\Debug\netstandard2.0\Sam1.dll
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\obj\Debug\netstandard2.0\ref\Sam1.dll
+C:\xampp\htdocs\xampp\pcs\Lenovo\Sam1\Sam1\Sam1\obj\Debug\netstandard2.0\Sam1.pdb
