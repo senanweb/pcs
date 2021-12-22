@@ -1,0 +1,15 @@
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\bin\Debug\App1.dll
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\bin\Debug\App1.pdb
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.dll
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.xml
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\obj\Debug\App1.csproj.CopyComplete
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\obj\Debug\App1.dll
+C:\xampp\htdocs\xampp\pcs\Lenovo\App1\App1\App1\App1\obj\Debug\App1.pdb
