@@ -1,8 +1,7 @@
 <?php
     include "includes/temp/header.php";
 ?>    
-Welcome 
-
+Welcome
 <?php
     include "includes/temp/footer.php";
 ?>
