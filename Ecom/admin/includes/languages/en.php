@@ -7,9 +7,9 @@
             'Admin' => ' Administrator',
             //setting
 
-            //Dashboard
-            'Home_Admin'        => ' Admin-Page',
-            'Categories'        => 'Group',
+            //Navbar
+            'Home_Admin'        => 'Control',
+            'Categories'        => 'Sections',
             'Items'             => 'Tools',
             'Members'           => 'Departments',            
             'Statistics'        => 'Static',
@@ -17,8 +17,6 @@
         );
         return $lang[$phrase];
     }
-
-
     // $lang = array('salawe' => 'family');
     // echo $lang['salawe']
 

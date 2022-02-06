@@ -40,9 +40,8 @@ body {
 .navbar-inverse .navbar-nav> .open>a:focus,
 .navbar-inverse .navbar-nav> .open>a:hover, .dropdown-menu
 {
-  background-color: #5e9df0;
+  background-color: #4c8bdc;
 }
-
 .dropdown-menu {
     min-width: 180px;
     padding: 0;
