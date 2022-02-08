@@ -7,7 +7,7 @@ if (isset($_SESSION['name'])) {
     //header('Location:dashboard.php'); // Redirect To Dashboard Page
     $pageTitle = 'Dashboard';
     include 'init.php';
-    echo 'Welcome';
+    //print_r($_SESSION); //check the session
     include $tpl . "footer.php";
 } 
 else {

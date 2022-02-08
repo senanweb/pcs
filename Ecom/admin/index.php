@@ -17,17 +17,21 @@
         //echo $username . ' ' . $password; //print info
         $hashedPass = sha1($password);
         //echo $hashedPass; // print sha
-        //stmt
-        $stmt = $con -> prepare("SELECT name, pass FROM users WHERE name = ? AND Pass = ? AND gid = 1"); 
+        // select stmt
+        $stmt = $con -> prepare("SELECT id, name, pass FROM users WHERE name = ? AND Pass = ? AND gid = 1 limit 1"); 
+        //select stmt
         $stmt -> execute (array($username, $hashedPass));
+        $row = $stmt -> fetch();
         $count = $stmt -> rowCount (); // Check If The User Exist In Database
         //echo $count; //check count
         if ($count > 0)
             {
             //echo 'Welcome Admin'. ' ' . $username;
-             $_SESSION['name'] = $username ; // Register Session Name
-             header('Location:dashboard.php'); // Redirect To Dashboard Page
-            exit();
+            //print_r($row);    //show info for user
+                $_SESSION['name'] = $username ; // Register Session Name
+                $_SESSION['id'] = $row['id'];   // Register session id
+                header('Location:dashboard.php'); // Redirect To Dashboard Page
+                exit();
             }
 
 

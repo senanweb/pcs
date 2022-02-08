@@ -30,12 +30,12 @@ body {
 }
 .nav > li > a,
 .navbar-brand {
-    padding: 15px 12px;
+  padding: 15px 12px;
 }
 .navbar-brand {
-    font-size: 1em;
+  font-size: 1em;
 }
-            I
+I
 .navbar-inverse .navbar-nav> .open>a,
 .navbar-inverse .navbar-nav> .open>a:focus,
 .navbar-inverse .navbar-nav> .open>a:hover, .dropdown-menu
@@ -59,3 +59,11 @@ body {
    background-color: #8e44ad;
 }
 /* End Bootstrap Edits */
+/* Start Members Page */
+h1 {
+    font-size: 40px;
+    margin: 20px 0;
+    font-weight: bold;
+    color: #888;
+    } 
+/* End Members Page--end 20 */
